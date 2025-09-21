@@ -1,4 +1,4 @@
-# mecharashi-builder.github.io
+# mecharashi-builder
 Mecharashi Chip and ST manager
 
 # h1 testing
